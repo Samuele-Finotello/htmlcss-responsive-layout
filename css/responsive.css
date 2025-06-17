@@ -1,4 +1,11 @@
 /* Soluzione qui */
+@media all and (min-width: 576px) {
+  .clearfix img {
+    float: left;
+    margin-right: 10px;
+  }
+}
+
 @media all and (min-width: 768px) {
   #topbar {
     justify-content: flex-start;
@@ -31,11 +38,6 @@
 
   .ads {
     display: block;
-  }
-
-  .clearfix img {
-    float: left;
-    margin-right: 10px;
   }
 }
 
