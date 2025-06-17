@@ -47,4 +47,20 @@
   .quick-notes ul {
     flex-direction: column;
   }
+
+  .recipe-card {
+    display: flex;
+  }
+
+  .recipe-video {
+    width: 70%;
+  }
+
+  .recipe-info {
+    width: 30%;
+  }
+
+  .recipe-info ul li {
+    width: 100%;
+  }
 }
