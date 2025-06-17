@@ -15,4 +15,13 @@
   h2 {
     font-size: 2rem;
   }
+
+  .quick-notes ul {
+    display: flex;
+    flex-wrap: wrap
+  }
+
+  .quick-notes ul li {
+    width: 30%;
+  }
 }
