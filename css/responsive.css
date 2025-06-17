@@ -24,4 +24,8 @@
   .quick-notes ul li {
     width: 30%;
   }
+
+  .btn {
+    padding: 10px 50px;
+  }
 }
