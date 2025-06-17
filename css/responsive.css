@@ -73,4 +73,9 @@
   .btn {
     padding: 10px 40px;
   }
+
+  footer {
+    display: flex;
+    justify-content: space-between;
+  }
 }
