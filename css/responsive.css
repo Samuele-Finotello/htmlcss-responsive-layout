@@ -54,6 +54,7 @@
 
   .recipe-video {
     width: 70%;
+    height: 420px;
   }
 
   .recipe-info {
@@ -62,5 +63,14 @@
 
   .recipe-info ul li {
     width: 100%;
+    margin: 7px 0;
+  }
+
+  .social-networks .label {
+    display: inline-block;
+  }
+
+  .btn {
+    padding: 10px 40px;
   }
 }
