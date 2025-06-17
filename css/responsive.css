@@ -4,6 +4,10 @@
     float: left;
     margin-right: 10px;
   }
+
+  .btn {
+    padding: 10px 30px;
+  }
 }
 
 @media all and (min-width: 768px) {
